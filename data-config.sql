@@ -1,5 +1,5 @@
 SET client_encoding = 'UTF8';
 
-insert into config(id, name, value) values (1, 'url1', 'username1');
-insert into config(id, name, value) values (2, 'url2', 'username2');
-insert into config(id, name, value) values (3, 'url3', 'username3');
+insert into config(name, value) values ('url1', 'usérname1');
+insert into config(name, value) values ('url2', 'usernamé2');
+insert into config(name, value) values ('url3', 'usernâme3');
